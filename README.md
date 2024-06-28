@@ -1,20 +1,20 @@
 # Real-Estate Management System
 A management system for managing real estate operations, developed in Java using NetBeans and Power BI for data visualization.
 
-#Overview
+# Overview
 This system includes dynamic dashboards created with Power BI, which users and admins can use to explore property listings, check prices, and choose locations. Administrators also have access to sales data, customer interactions, and detailed property information, all managed through a Java GUI.
 
 
 ## UI
 
 * Login page
-![s21](https://github.com/kzsakib/recipe-recommender/assets/101088043/65eee597-6a2d-40a3-9f9c-ac8e843b4dc2)
+![LOGIN](https://github.com/kzsakib/recipe-recommender/assets/101088043/65eee597-6a2d-40a3-9f9c-ac8e843b4dc2)
 * Sorting Menu
-![S22](https://github.com/kzsakib/recipe-recommender/assets/101088043/c58a79a4-bb59-4f78-b6f7-71d3482b778f)
+![SORT](https://github.com/kzsakib/recipe-recommender/assets/101088043/c58a79a4-bb59-4f78-b6f7-71d3482b778f)
 * Admin Dashboard
-![S23](https://github.com/kzsakib/recipe-recommender/assets/101088043/d0db0513-fd2d-444c-8b3b-25f5316a2553)
+![ADMIN](https://github.com/kzsakib/recipe-recommender/assets/101088043/d0db0513-fd2d-444c-8b3b-25f5316a2553)
 * User Dashboard
-![S24](https://github.com/kzsakib/recipe-recommender/assets/101088043/926d9715-8043-44f3-8d5d-87396b310334)
+![USER](https://github.com/kzsakib/recipe-recommender/assets/101088043/926d9715-8043-44f3-8d5d-87396b310334)
 
 
 
